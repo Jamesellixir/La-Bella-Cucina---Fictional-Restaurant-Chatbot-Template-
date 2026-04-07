@@ -33,8 +33,11 @@ Built on OpenAI's GPT-4o mini and delivered through a clean Streamlit web interf
 ---
 
 ## 🚀 Demo
+<img width="1056" height="830" alt="image" src="https://github.com/user-attachments/assets/e3bf790d-261f-44e8-a21d-bfa840d7270e" />
+<img width="1015" height="812" alt="image" src="https://github.com/user-attachments/assets/72479919-0b7f-447b-902f-fd199b7110d9" />
+<img width="1007" height="478" alt="image" src="https://github.com/user-attachments/assets/1d704966-f810-4dc5-8033-d21fcc2ee7e6" />
 
-[Live Demo](YOUR_DEMO_URL_HERE) · [Screenshots / GIFs — add yours here]
+
 
 ---
 
@@ -127,29 +130,6 @@ The system prompt is loaded from `system_prompt.txt` at startup, keeping restaur
 
 ---
 
-## Deployment
-
-**Streamlit Community Cloud (free tier recommended for demos)**
-
-1. Push the repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io) and connect your repo
-3. Set `OPENAI_API_KEY` as a secret in the Streamlit dashboard
-4. Deploy — done
-
-The app will be live at a public URL within minutes.
-
----
-
-## Roadmap
-
-- [ ] Swap system prompt to live database for real-time menu updates
-- [ ] Add an online reservation form with email confirmation
-- [ ] Multi-language support (Sinhala / Tamil)
-- [ ] Analytics dashboard to track common customer queries
-- [ ] WhatsApp / Messenger integration
-
----
-
 ## Contributing
 
 This is a client project delivered by StarForge. If you are the client and want to request changes or new features, please get in touch via the contact details below.
@@ -166,8 +146,8 @@ Proprietary — delivered exclusively to La Bella Cucina by StarForge. Not for r
 
 **Built by StarForge** — AI automation for businesses that want results, not complexity.
 
-- 🌐 Website: [YOUR_WEBSITE_HERE]
-- 📧 Email: [YOUR_EMAIL_HERE]
-- 🐙 GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 🌐 Website: [Under construstion]
+- 📧 Email: starforge.lk@gmail.com
+- 🐙 GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/jamesellixir)
 
 > *"Turning AI complexity into business simplicity."*
